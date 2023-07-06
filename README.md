@@ -1,5 +1,3 @@
 Hi, I'm Tim West. Technology entrepreneur based in Vermont, USA.
 
-Likes: Debian, Proxmox, pfSense, networking, hardware hacks
-
-Thrust upon me: Microsoft 365, Windows admin
+Microsoft 365, Windows, Debian, pfSense, networking, hardware hacks, music, fishing, baseball.
